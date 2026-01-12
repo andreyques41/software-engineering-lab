@@ -2,7 +2,7 @@
 
 Curated collection of programming exercises, algorithms, and mini-projects.
 
-**Author**: [Andrey Quesada](https://github.com/andreyques41) | Software Engineer | Backend Systems & AI-Assisted Development
+**Author**: [Andrey Quesada](https://github.com/andreyques41) | Software Engineer | Full-Stack Development & AI Workflows
 
 ---
 
