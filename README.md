@@ -2,6 +2,9 @@
 
 > Curated collection of programming exercises, algorithms, and mini-projects
 
+**Author**: [Andrey Quesada](https://github.com/andreyques41) | **GitHub**: [andreyques41/software-engineering-lab](https://github.com/andreyques41/software-engineering-lab)
+
+[![Status](https://img.shields.io/badge/Status-Active-blue.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://python.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue.svg)](https://www.postgresql.org/)
@@ -241,7 +244,7 @@ These standalone projects evolved from this learning foundation:
 
 ## 📄 License
 
-MIT License
+MIT License - See [LICENSE](LICENSE) for details.
 
 ---
 
